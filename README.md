@@ -15,6 +15,7 @@
 README.md
 LICENSE
 package.json
+
 src/
 ├── components/ (UI or logic modules)
 ├── pages/ or routes/
